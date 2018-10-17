@@ -21,3 +21,4 @@
 
 [Manuales](http://complubot.com/inicio/proyectos/swr/manuales/)
 [Actividades](http://complubot.com/inicio/proyectos/swr/actividades/)
+[Cuadernos de robotica educativa](http://complubot.com/inicio/proyectos/cdare/)
