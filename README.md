@@ -1,4 +1,4 @@
-# Introducción a Robotica para Primaria (192925GE206](https://www.juntadeandalucia.es/educacion/seneca/seneca/jsp/gestionactividades/DetActForPub.jsp?X_EDIACTFOR=183756))
+# Introducción a Robotica para Primaria ([192925GE206](https://www.juntadeandalucia.es/educacion/seneca/seneca/jsp/gestionactividades/DetActForPub.jsp?X_EDIACTFOR=183756))
 
 
 ## CEP de Antequera
@@ -8,9 +8,9 @@ Sesiones:
 
 |Fecha|Horario|
 |---|---|
-|28/11/2018|7:00 a 20:00|
-|12/12/2018|7:00 a 20:00|
-|16/01/2019|7:00 a 20:00|
+|28/11/2018|17:00 a 20:00|
+|12/12/2018|17:00 a 20:00|
+|16/01/2019|17:00 a 20:00|
 |23/01/2019|17:00 a 20:00|
 
 La robótica (y la programación) se han consolidado como una herramienta que cada vez más docentes utilizan en todos los niveles (Educación Infantil, Primaria, Secundaria, Bachillerato y FP). 
