@@ -31,7 +31,7 @@ Con este curso se pretende introducir a los docentes de Primaria en el uso de la
 ## Objetivos
 
 1. Mostrar el [ecosistema actual de herramientas](./Alternativas.md) que facilitan la creación de proyectos con robots. 
-2. Enseñar a programar usando aplicaciones visuales. 
+2. Enseñar a [programar](./Programacion.md) usando aplicaciones visuales. 
 3. Aprender a utilizar [componentes electrónicos](./Componentes.md) para realizar proyectos robóticos. 
 4. Aprender a integrar estas herramientas en el aula.
 
