@@ -4,7 +4,14 @@
 ## CEP de Antequera
 
 
-Sesiones: 
+## José Antonio Vacas @javacasm
+
+### https://github.com/javacasm/RoboticaPrimariaAntequera
+
+
+![Licencia CC](./images/Licencia_CC_peque.png)
+
+## Sesiones 
 
 |Fecha|Horario|
 |---|---|
