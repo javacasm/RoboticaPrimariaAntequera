@@ -1,16 +1,15 @@
-#  PROYECTOS TIC INTERNIVELARES 2018/19 ([191811GE050](https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/191811GE050/))
-
-## CEP de Granada
-
-## José Antonio Vacas  @javacasm
-
-![CC](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
+# Introducción a Robotica para Primaria ([192925GE206](https://www.juntadeandalucia.es/educacion/seneca/seneca/jsp/gestionactividades/DetActForPub.jsp?X_EDIACTFOR=183756))
 
 
-¿Por qué "hacer" cosas en el aula?
+## CEP de Antequera
 
-José Antonio Vacas @javacasm
-![CC](https://raw.githubusercontent.com/javacasm/ArduinoAvanzadoDE2017/master/images/Licencia_CC_peque.png)
+
+## José Antonio Vacas @javacasm
+
+### https://github.com/javacasm/RoboticaPrimariaAntequera
+
+
+![Licencia CC](./images/Licencia_CC_peque.png)
 
 ***
 
