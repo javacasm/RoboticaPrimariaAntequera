@@ -30,33 +30,42 @@ Con este curso se pretende introducir a los docentes de Primaria en el uso de la
 
 ## Objetivos
 
-1. Mostrar el ecosistema actual de herramientas que facilitan la creación de proyectos con robots. 
+1. Mostrar el [ecosistema actual de herramientas](./Alternativas.md) que facilitan la creación de proyectos con robots. 
 2. Enseñar a programar usando aplicaciones visuales. 
-3. Aprender a utilizar componentes electrónicos para realizar proyectos robóticos. 
+3. Aprender a utilizar [componentes electrónicos](./Componentes.md) para realizar proyectos robóticos. 
 4. Aprender a integrar estas herramientas en el aula.
 
 
 ## CONTENIDOS
+
+* [Introducción](./presentacion.md)
+
 ### El kit
 * Kit de robótica [Crumblebot (73€)](https://complubot.com/shop/kits/993-kit-crumblebot-pilas-alcalinas-y-caja-individual-2016000000146.html) y sus componentes.
-## Motivación
+
+## [Motivación](./Motivacion.md)
 * Puente entre [Scratch y Arduino](http://www.complubot.com/docu/Crumble/Crumble_Getting_Starter_Guide_es_03_2015.pdf)
+
 ## Software
 * Plataforma de software: [CrumbleBot](http://complubot.com/inicio/proyectos/swr/)
 * [Instalación de entorno de programación de Crumble](http://complubot.com/inicio/proyectos/swr/crumble/software-crumble/)
+
 ## Usando el kit
 * [Crumble](http://complubot.com/inicio/proyectos/swr/crumble/)
 * Leds.
 * Sensores de proximidad.
 * Motores.
 * Montar un robot. [Montaje y uso](http://complubot.com/inicio/proyectos/swr/swr-robots/swr-robotscrumblebot-guia-de-montaje-y-uso/)
+
 ## Programación
 * Programación básica
 * Programar comportamientos.
 * Buenas prácticas.
-## Proyectos
+
+## [Proyectos](./Proyectos.md) e [ideas](./Ideas.md)
 * Diseño de un proyecto.
 * Revisión del avance de los proyectos.
+
 ## MProgramación
 * Programación más avanzada.
 * Componentes externos.
@@ -70,5 +79,7 @@ Con este curso se pretende introducir a los docentes de Primaria en el uso de la
 [Manuales](http://complubot.com/inicio/proyectos/swr/manuales/)
 
 [Cuadernos de robotica educativa](http://complubot.com/inicio/proyectos/cdare/)
+
+[Referencias](./Referencias.md)
 
 
