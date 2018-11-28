@@ -4,7 +4,13 @@
 ## CEP de Antequera
 
 
-Sesiones: 28/11/2018, 12/12/2018,16/01/2019 y 23/01/2019 de 17:00 a 20:00
+Sesiones: 
+
+|---|---|
+|28/11/2018|7:00 a 20:00|
+|12/12/2018|7:00 a 20:00|
+|16/01/2019|7:00 a 20:00|
+|23/01/2019|17:00 a 20:00|
 
 La robótica (y la programación) se han consolidado como una herramienta que cada vez más docentes utilizan en todos los niveles (Educación Infantil, Primaria, Secundaria, Bachillerato y FP). 
 
