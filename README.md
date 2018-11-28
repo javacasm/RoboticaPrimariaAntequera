@@ -38,7 +38,7 @@ Con este curso se pretende introducir a los docentes de Primaria en el uso de la
 
 ## CONTENIDOS
 ### El kit
-* Kit de robótica [Crumblebot (73€)](https://complubot.com/shop/kits/993-kit-crumblebot-pilas-alcalinas-y-caja-individual-2016000000146.html): componentes.
+* Kit de robótica [Crumblebot (73€)](https://complubot.com/shop/kits/993-kit-crumblebot-pilas-alcalinas-y-caja-individual-2016000000146.html) y sus componentes.
 ## Motivación
 * Puente entre [Scratch y Arduino](http://www.complubot.com/docu/Crumble/Crumble_Getting_Starter_Guide_es_03_2015.pdf)
 ## Software
@@ -48,7 +48,7 @@ Con este curso se pretende introducir a los docentes de Primaria en el uso de la
 * [Crumble](http://complubot.com/inicio/proyectos/swr/crumble/)
 * Leds.
 * Sensores de proximidad.
-* Servos.
+* Motores.
 * Montar un robot. [Montaje y uso](http://complubot.com/inicio/proyectos/swr/swr-robots/swr-robotscrumblebot-guia-de-montaje-y-uso/)
 ## Programación
 * Programación básica
@@ -62,7 +62,8 @@ Con este curso se pretende introducir a los docentes de Primaria en el uso de la
 * Componentes externos.
 * Reciclaje de materiales.
 * Experiencias en el aula. [Actividades](http://complubot.com/inicio/proyectos/swr/actividades/). [Guía del aula](http://complubot.com/inicio/recursos/recursos-educacion/actividades-lomce/)
-                                                                                                  
+
+
 
 ## Recursos
 
