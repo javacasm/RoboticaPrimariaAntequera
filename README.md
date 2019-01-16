@@ -82,4 +82,6 @@ Con este curso se pretende introducir a los docentes de Primaria en el uso de la
 
 [Referencias](./Referencias.md)
 
+[¿Qué robot elegir?](https://pablorubma.cc/ama-la-imperfeccion-o-no/)
+
 
